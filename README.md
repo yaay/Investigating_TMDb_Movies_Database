@@ -1,15 +1,15 @@
-# Investigating-TMDb-Movies-Database
+# Investigating TMDb Movies Database
 
-I analyzed a TMDb movies database from Kaggle. This dataset contains information about 10,000 movies, short films and TV series collected from The Movie Database (TMDb), including user ratings, revenue, runtime and budget.
+I analyzed a movie database from [Kaggle](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv). This dataset contains information about 10,000 movies, short films and TV series collected from The Movie Database (TMDb), including user ratings, revenue, runtime and budget.
 
-In this project, i’ll be answering the following questions:
+### In this project, I answerd the following questions:
 
     What month is considered “best” for releasing a films/shows?
     What's the bigest 10 productions companies by revnue?
     What genres are associated with films/shows that have high revenues?
     What percentage do the top 5 genres make up?
  
-Conclusions:
+## Conclusions:
 
 Throughout this data analysis, I posed questions that Production Companies might find useful, and I’ve come to several conclusions:
 
